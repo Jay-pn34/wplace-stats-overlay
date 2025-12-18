@@ -13,7 +13,7 @@ A lightweight **Tampermonkey userscript** for [Wplace.live](https://wplace.live/
 1. Install [Tampermonkey](https://www.tampermonkey.net/) for your browser.
 2. Click the **Install** button below to add the script directly:
 
-[![Install Script](https://img.shields.io/badge/Install-Tampermonkey-brightgreen)](https://raw.githubusercontent.com/Jay-pn34/wplace-stats-overlay/main/wplace-stats-overlay.user.js)
+[![Install Script](https://img.shields.io/badge/Install-Tampermonkey-brightgreen)](https://raw.githubusercontent.com/Jay-pn34/wplace-stats-overlay/refs/heads/main/main.js)
 
 > Make sure the URL points to your raw script file in this repository.
 
